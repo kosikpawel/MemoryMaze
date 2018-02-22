@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/Menu.unity
+    guid: 3481dcab8cc760446a01be5d7406bf76
+  - enabled: 1
+    path: Assets/Levels/level1.unity
+    guid: 99a308ebb0deab645a634d24c2af5ec7
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x10 m1.unity
+    guid: a234c8e0177bf60479e1a3dabd78253f
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x10.1PP.unity
+    guid: 427cdfb4e3bdb174da6b117f19393f5a
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x10 m2.unity
+    guid: 23d14d21711b7554eaa0d3d7279d9d19
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x10.2PP.unity
+    guid: 30425d4f75ac6b54fa198a0803042078
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x12 m1.unity
+    guid: d859e58c73dcf844eae40d4b4469aafc
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x12 m2.unity
+    guid: 8c8991444fd87d94c962f1fce307da56
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x12 m3.unity
+    guid: 5e8dd5a3a82206541ae1ae174e484872
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x12.1PP.unity
+    guid: 3ba1f7b99e2e3be46a6a68613461a350
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x12.3PP.unity
+    guid: 84fd4c8286480a74790720573646f700
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x12.4PP.unity
+    guid: 469aadd2d2deb5e4a86160fd9577de11
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x14 m1.unity
+    guid: 3eec4651a2342154b9dd0c2373b64fe4
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x14 m2.unity
+    guid: 8df13894395b34947a063a4e27a73f2b
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x14 m4.unity
+    guid: ccb477f6da01e01458bf170fe7b2bae3
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x14 m3.unity
+    guid: c0a21dc213386e94290de34f9250d4b9
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x14.1PP.unity
+    guid: d0cfbf9c0dafc4842b92b9afafe5338d
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x14.2PP.unity
+    guid: 94a2df8ec920b684b950a591f42c5344
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x14.3PP.unity
+    guid: f8e440c12fe484446997ab2883976e86
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x14.4PP 4.unity
+    guid: c8815fc6a49d32d49803fe53b83a30ec
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x16 m1.unity
+    guid: 884aabe39ae84fa459e104854e21b656
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x16 m2.unity
+    guid: 7731f3855c361f9498fc88d002a118c3
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x16 m3.unity
+    guid: 407f91cfb0dd6a0499007189a23e585a
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/6x16 m4.unity
+    guid: c3f73e496c1594c4fb146a523826c565
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x16.2PP.unity
+    guid: 04b0601021d61514aa778d52b1d7bfb8
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x16.3PP.unity
+    guid: 21f341eea4b91aa4dab8bb669f25c937
+  - enabled: 1
+    path: Assets/Levels/Ptemp/6x16.4PP.unity
+    guid: 6c35cab54a9d3644498e45354689e8da
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/8x16 m1.unity
+    guid: 8b1ebe9e30c508d448a898daa7ecdac6
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/8x16 m2.unity
+    guid: 9ffdf991250a91a45bc042ac027e5729
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/8x16 m3.unity
+    guid: b01901198fafc994fab9c312a720b71f
+  - enabled: 1
+    path: Assets/Levels/Ptemp/8x16.1PP.unity
+    guid: dfa0f6d196b424e4ba746c298e5971b2
+  - enabled: 1
+    path: Assets/Levels/Ptemp/8x16.2PP.unity
+    guid: d30e7b9855ba5db469ad0aaf3af6a19b
+  - enabled: 1
+    path: Assets/Levels/Ptemp/8x16.3PP.unity
+    guid: 77d3f75de82c6654680e842a6f821c2d
+  - enabled: 1
+    path: Assets/Levels/Ptemp/10x16.1PP.unity
+    guid: 7b8d525dba1a239499e646b60f19d0bc
+  - enabled: 1
+    path: Assets/Levels/Ptemp/10x16.2PP.unity
+    guid: 2febc1f29ae7f1146827f89a13316da5
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/10x18 m1.unity
+    guid: 5f04e03a9b8268440a857d6d20ba2bca
+  - enabled: 1
+    path: Assets/Levels/Mtemp/TestMapsM/10x18 m2.unity
+    guid: f60a145e4621f564080a851360acee58
